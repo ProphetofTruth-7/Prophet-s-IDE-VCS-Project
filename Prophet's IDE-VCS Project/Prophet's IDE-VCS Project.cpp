@@ -9,6 +9,6 @@ int main() {
     middle = 'R';
     last = 'B';
     cout << first << middle << last << endl;
-    return 8;
+    return 7;
 
 }
